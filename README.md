@@ -1,4 +1,5 @@
 #Android, List of Photos
 
+###Gif
 
-[Image](/assets/Android,%20List%20of%20Photos.gif "Working app")
+<img src="https://github.com/FarukKaradeniz/AndroidListofPhotos/blob/master/assets/Android%2C%20List%20of%20Photos.gif"/>
